@@ -1,0 +1,3 @@
+# Auckland Van Glass — static site, no build step.
+[build]
+  publish = "."
