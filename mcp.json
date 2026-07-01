@@ -1,0 +1,62 @@
+{
+  "name": "Auckland Van Glass Specialists",
+  "description": "Van windscreen and glass replacement across Auckland. Hiace, Transit, iLoad, Sprinter, LDV and all van makes. Mobile fitting, same-day service, insurance claims handled.",
+  "website": "https://aucklandvanglass.co.nz",
+  "contact": {
+    "phone": "0800-563-563",
+    "mobile": "021-757-985",
+    "email": "machglass@gmail.com",
+    "hours": "Monday-Friday, 8:00 AM - 5:00 PM"
+  },
+  "services": [
+    {
+      "name": "Van Windscreen Replacement",
+      "url": "https://aucklandvanglass.co.nz/"
+    },
+    {
+      "name": "Sliding Door Glass",
+      "url": "https://aucklandvanglass.co.nz/"
+    },
+    {
+      "name": "Rear & Barn Door Glass",
+      "url": "https://aucklandvanglass.co.nz/"
+    },
+    {
+      "name": "Insurance Claims",
+      "url": "https://aucklandvanglass.co.nz/"
+    },
+    {
+      "name": "Mobile Fitting",
+      "url": "https://aucklandvanglass.co.nz/"
+    }
+  ],
+  "specialty": "Van glass for all commercial vans",
+  "areas": [
+    "Auckland"
+  ],
+  "insurance_partners": [
+    "AA",
+    "AMI",
+    "AMP",
+    "ANZ",
+    "ASB",
+    "BNZ",
+    "Covi",
+    "FMG",
+    "IAG",
+    "Lumley",
+    "NZI",
+    "QBE",
+    "State",
+    "Vero",
+    "Zurich"
+  ],
+  "key_pages": {
+    "homepage": "https://aucklandvanglass.co.nz/",
+    "contact": "https://aucklandvanglass.co.nz/contact.html"
+  },
+  "sitemap": "https://aucklandvanglass.co.nz/sitemap.xml",
+  "robots": "https://aucklandvanglass.co.nz/robots.txt",
+  "llms": "https://aucklandvanglass.co.nz/llms.txt",
+  "mcp": "https://aucklandvanglass.co.nz/.well-known/mcp.json"
+}
